@@ -10,6 +10,10 @@ using namespace std;
 
 class animal : public animalName, public bodyPart
 {
+public:
+	string species;
+
+	void enterSpecies();
 	animal();
 	~animal();
 };

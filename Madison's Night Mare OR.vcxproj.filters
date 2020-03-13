@@ -18,6 +18,15 @@
     <ClCompile Include="..\Madison%27s Night Mare OR\Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\Madison%27s Night Mare OR\animal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Madison%27s Night Mare OR\bodyPart.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Madison%27s Night Mare OR\animalName.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\Madison%27s Night Mare OR\bodyPart.h">

@@ -9,11 +9,13 @@ using namespace std;
 class bodyPart
 {
 public:
+	string part;
 	bool hasBodyPart;
 	string surgeryDate;
 	int price;
 	string complications;
 
+	void enterPart();
 	void edit();
 	void print();
 	bodyPart();

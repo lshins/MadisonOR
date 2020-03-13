@@ -123,6 +123,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\Madison%27s Night Mare OR\animal.cpp" />
+    <ClCompile Include="..\Madison%27s Night Mare OR\animalName.cpp" />
+    <ClCompile Include="..\Madison%27s Night Mare OR\bodyPart.cpp" />
     <ClCompile Include="..\Madison%27s Night Mare OR\Source.cpp" />
   </ItemGroup>
   <ItemGroup>
