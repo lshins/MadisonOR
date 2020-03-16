@@ -8,10 +8,13 @@
 
 using namespace std;
 
+const int noNames = 10;
+
 class animal : public animalName, public bodyPart
 {
 public:
 	string species;
+	animalName names[noNames];
 
 	void enterSpecies();
 	animal();

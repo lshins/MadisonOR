@@ -27,6 +27,9 @@
     <ClCompile Include="..\Madison%27s Night Mare OR\animalName.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\Madison%27s Night Mare OR\animalDerived.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\Madison%27s Night Mare OR\bodyPart.h">
@@ -36,6 +39,9 @@
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="..\Madison%27s Night Mare OR\animal.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Madison%27s Night Mare OR\animalDerived.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>

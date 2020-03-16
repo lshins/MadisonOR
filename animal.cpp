@@ -8,7 +8,7 @@ using namespace std;
 
 void animal::enterSpecies()
 {
-	cout << "Input the animal." << endl;
+	cout << "Enter a new or existing species to access the animal's data." << endl;
 	cout << endl;
 	cin >> species;
 	cout << endl;

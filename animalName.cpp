@@ -7,7 +7,7 @@ using namespace std;
 
 void animalName::enterName()
 {
-	cout << "Input the animal's name." << endl;
+	cout << "Enter a new or existing name to access the animal's data." << endl;
 	cout << endl;
 	cin >> name;
 	cout << endl;

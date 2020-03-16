@@ -7,10 +7,13 @@
 
 using namespace std;
 
+const int noParts = 10;
+
 class animalName : public bodyPart
 {
 public:
 	string name;
+	bodyPart parts[noParts];
 
 	void enterName();
 	animalName();
